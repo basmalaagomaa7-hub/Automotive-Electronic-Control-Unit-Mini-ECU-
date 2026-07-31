@@ -1,5 +1,5 @@
 # Automotive-Electronic-Control-Unit-Mini-ECU-
-<big>🎯 Project Objectives</big>
+# 🎯 Project Objectives
 - Simulate a simplified Automotive ECU
 - Build modular embedded software
 - Implement State Machine Architecture
