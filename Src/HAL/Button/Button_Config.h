@@ -1,0 +1,59 @@
+/**
+* @file    Button_Config.h
+* @author (developer)  
+* @author(reviewer)
+* @brief  
+* @details
+* @version
+* @date
+* @copyright Copyright (c) 2026, Gestell Company
+* @note  This Driver Support 4 Button Only
+* @note  Driver Support Internal Pull Up Connection Only
+* @note  if you need add new button Please Follow this Steps : 
+*      - Increament the Btn_MaxNo By 1 
+*      - Add New Macro for Button Number -> Called    BtnX  
+*      - Add New Macro for Button Group  -> Called    BtnX_Group 
+*      - Add New Macro for Button Pin    -> Called    BtnX_Pin 
+*      - Update the BtnGroupValue By BtnX_Group 
+*      - Update the BtnPinValue   By BtnX_Pin
+*      - X is Indecate to Button Number 
+*/
+
+#ifndef BUTTON_CONFIG_H
+#define BUTTON_CONFIG_H
+
+
+
+#include "../../Mcal/DIO/DIO_Private.h"
+#include "Button_Private.h"
+
+/* Number of buttons */
+#define Btn_MaxNo      4
+
+/* Button 1 */
+#define Btn1           1
+#define Btn1_Group     Dio_GroupC
+#define Btn1_Pin       Dio_Pin0
+
+/* Button 2 */
+#define Btn2           2
+#define Btn2_Group     Dio_GroupC
+#define Btn2_Pin       Dio_Pin1
+
+/* Button 3 */
+#define Btn3           3
+#define Btn3_Group     Dio_GroupC
+#define Btn3_Pin       Dio_Pin2
+
+/* Button 4 */
+#define Btn4           4
+#define Btn4_Group     Dio_GroupC
+#define Btn4_Pin       Dio_Pin3
+
+/* Arrays */
+
+#define BtnGroupValue  {Btn1_Group,Btn2_Group,Btn3_Group,Btn4_Group}
+#define BtnPinValue    {Btn1_Pin,Btn2_Pin,Btn3_Pin,Btn4_Pin}
+
+
+#endif // BUTTON_CONFIG_H
