@@ -1,11 +1,11 @@
 /**
 * @file    POT_Private.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Malak Mohammed  
+* @author  rev Basmala Mahmoud
+* @brief   Private declarations for the POT driver.
+* @details Contains private macros and internal definitions used only by the POT driver.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
