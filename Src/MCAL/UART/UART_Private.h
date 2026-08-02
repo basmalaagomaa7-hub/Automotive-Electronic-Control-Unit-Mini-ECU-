@@ -1,3 +1,14 @@
+/**
+* @file    UART_Private.h
+* @author  dev Malak Mohammed  
+* @author  rev Maria Boules
+* @brief Private declarations for the UART driver.
+* @details Contains register definitions and internal helper macros.
+* @version 1.0
+* @date    8/2/2026
+* @copyright Copyright (c) 2026, Gestell Company
+*/
+
 #ifndef _UART_PRIVATE_H
 #define _UART_PRIVATE_H
 #include <stdint.h>
