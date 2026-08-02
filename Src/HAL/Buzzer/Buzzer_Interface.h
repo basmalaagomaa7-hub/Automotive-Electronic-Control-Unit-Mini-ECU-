@@ -1,10 +1,10 @@
 /**
 * @file    Buzzer_Interface.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
+* @author  dev Basmala Mahmoud
+* @author  rev Malak Mohammed
+* @brief   Public interface for the Buzzer driver.
+* @details Contains the public function prototypes for buzzer control.
+* @version 1.0
 * @date
 * @copyright Copyright (c) 2026, Gestell Company
 */
