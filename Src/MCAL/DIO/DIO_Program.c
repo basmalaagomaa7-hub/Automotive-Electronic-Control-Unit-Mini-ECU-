@@ -1,11 +1,11 @@
 /**
 * @file    DIO_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM 
+* @author  rev Basmala Mahmoud
+* @brief   Implements the Digital Input/Output (DIO) driver.
+* @details Provides pin and port initialization, read, write, and toggle operations.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
