@@ -2,8 +2,8 @@
 * @file    ADC_Program.c
 * @author  dev Malak Mohammed 
 * @author  rev Basmala Mahmoud
-* @brief   Implements the Digital Input/Output (DIO) driver.
-* @details Provides pin and port initialization, read, write, and toggle operations.
+* @brief   Implements the ADC driver.
+* @details Provides analog-to-digital conversion services using the ATmega32 ADC peripheral.
 * @version 1.0
 * @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
