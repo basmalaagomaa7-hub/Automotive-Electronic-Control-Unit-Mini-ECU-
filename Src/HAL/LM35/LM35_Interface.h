@@ -1,11 +1,11 @@
 /**
 * @file    LM35_Interface.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud
+* @author  rev Malak Mohammed
+* @brief   Public interface for the LM35 temperature sensor driver.
+* @details Contains the public function prototypes for reading temperature values.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
