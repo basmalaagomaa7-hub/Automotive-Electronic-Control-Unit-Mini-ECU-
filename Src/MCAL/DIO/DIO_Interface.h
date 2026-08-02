@@ -1,11 +1,11 @@
 /**
 * @file    DIO_Interface.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM  
+* @author  rev Basmala Mahmoud
+* @brief   Public interface for the DIO driver.
+* @details Contains the public APIs for digital input/output operations.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
