@@ -1,11 +1,11 @@
 /**
 * @file    LED_Config.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM  
+* @author  rev Basmala Mahmoud
+* @brief   Configuration parameters for the LED driver.
+* @details Defines LED ports, pins, and connection types.
+* @version 1.0
+* @date    8/3/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
