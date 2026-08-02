@@ -1,11 +1,11 @@
 /**
 * @file    TIMER_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM  
+* @author  rev Basmala Mahmoud
+* @brief   Implements the Timer0 driver.
+* @details Provides Timer0 initialization, delay generation, interrupt handling, and PWM signal generation using the ATmega32 Timer0 peripheral.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
