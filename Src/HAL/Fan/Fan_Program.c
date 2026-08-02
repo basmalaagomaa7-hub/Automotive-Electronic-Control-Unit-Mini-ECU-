@@ -1,7 +1,13 @@
 /**
- * @file Fan_Program.c
- * @brief Fan Driver Source File.
- */
+* @file    Fan_Program.c
+* @author  dev Basmala Mahmoud  
+* @author  rev Maria Boules
+* @brief   Implements the Fan driver.
+* @details Provides functions to initialize, start, stop, and control the cooling fan.
+* @version 1.0
+* @date    8/2/2026  
+* @copyright Copyright (c) 2026, Gestell Company
+*/
 
 #include "Fan_Interface.h"
 #include "Fan_Config.h"
