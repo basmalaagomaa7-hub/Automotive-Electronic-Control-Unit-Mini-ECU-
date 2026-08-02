@@ -1,5 +1,5 @@
 /**
-* @file    Buzzer_Config.h
+* @file    Fan_Interface.h
 * @author  dev Basmala Mahmoud 
 * @author  rev Maria Boules
 * @brief   Public interface for the Fan driver.
