@@ -1,11 +1,11 @@
 /**
 * @file    LM35_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud  
+* @author  rev Malak Mohammed
+* @brief   Implements the LM35 temperature sensor driver.
+* @details Reads the analog voltage from the LM35 sensor and converts it to temperature in degrees Celsius.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 #include "LM35_Interface.h"
