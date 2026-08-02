@@ -1,3 +1,14 @@
+/**
+* @file    ADC_Interface.h
+* @author  dev Malak Mohammed  
+* @author  rev Basmala Mahmoud
+* @brief   Public interface for the DIO driver.
+* @details Contains the public APIs for digital input/output operations.
+* @version 1.0
+* @date    8/2/2026
+* @copyright Copyright (c) 2026, Gestell Company
+*/
+
 #ifndef ADC_INTERFACE_H
 #define ADC_INTERFACE_H
 #include <stdint.h>
