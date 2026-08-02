@@ -1,11 +1,11 @@
 /**
 * @file    SelfTest_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmouud  
+* @author  rev Malak Mohammed
+* @brief Public interface for the SelfTest module.
+* @details Contains the public data types and function prototypes used by other modules.
+* @version 1.0
+* @date    8/2/2026 
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
