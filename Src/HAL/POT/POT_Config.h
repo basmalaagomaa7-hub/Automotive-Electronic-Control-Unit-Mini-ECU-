@@ -1,11 +1,11 @@
 /**
 * @file    POT_Config.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev  Malak Mohammed
+* @author  rev  Basmala Mahmoud 
+* @brief   Configuration parameters for the POT driver.
+* @details Defines the ADC channel and configuration used by the potentiometer.
+* @version 1.0
+* @date    8/2/2026 
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
