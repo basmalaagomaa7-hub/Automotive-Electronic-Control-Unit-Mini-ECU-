@@ -1,11 +1,11 @@
 /**
 * @file    Button_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud 
+* @author  rev Malak Mohammed
+* @brief   Implements the Button driver.
+* @details Provides functions to initialize and read push button states.
+* @version 1.0
+* @date    8/3/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
