@@ -2,8 +2,8 @@
 * @file    SelfTest_Program.c
 * @author  dev Basmala Mahmouud  
 * @author  rev Malak Mohammed
-* @brief Public interface for the SelfTest module.
-* @details Contains the public data types and function prototypes used by other modules.
+* @brief   Implements the SelfTest module.
+* @details Performs startup hardware diagnostics including ADC, battery, temperature, LED, and buzzer checks before the ECU enters normal operation.
 * @version 1.0
 * @date    8/2/2026 
 * @copyright Copyright (c) 2026, Gestell Company
