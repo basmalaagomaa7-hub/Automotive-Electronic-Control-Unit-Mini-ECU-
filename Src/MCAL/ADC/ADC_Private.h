@@ -2,8 +2,8 @@
 * @file    ADC_Private.h
 * @author  dev Malak Mohammed  
 * @author  rev Basmala Mahmoud
-* @brief   Private declarations for the DIO driver.
-* @details Contains private macros and internal definitions.
+* @brief   Private declarations for the ADC driver.
+* @details Contains register bit definitions and internal helper declarations.
 * @version 1.0
 * @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
