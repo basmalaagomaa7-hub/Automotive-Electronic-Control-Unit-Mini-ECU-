@@ -1,11 +1,11 @@
 /**
 * @file    Buzzer_Config.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud 
+* @author  rev Malak Mohammed
+* @brief   Configuration parameters for the Buzzer driver.
+* @details Defines buzzer pin assignments and operating parameters.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
