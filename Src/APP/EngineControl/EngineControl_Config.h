@@ -1,11 +1,11 @@
 /**
 * @file    EngineControl_Config.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud
+* @author  rev Maria Boules 
+* @brief   Configuration parameters for the EngineControl module.
+* @details Contains configurable limits and PWM values used for engine control.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
