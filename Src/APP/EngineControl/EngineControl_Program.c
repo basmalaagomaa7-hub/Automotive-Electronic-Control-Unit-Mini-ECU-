@@ -1,11 +1,11 @@
 /**
 * @file    EngineControl_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud 
+* @author  rev Maria Boules
+* @brief   Implements the EngineControl module.
+* @details Reads engine sensors, controls the cooling fan PWM, and updates engine status indicators during normal operation.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
