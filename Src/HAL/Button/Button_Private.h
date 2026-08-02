@@ -1,11 +1,11 @@
 /**
 * @file    Button_Private.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud  
+* @author  rev Malak Mohammed
+* @brief   Private declarations for the Button driver.
+* @details Contains private macros used only inside the Button driver.
+* @version 1.0
+* @date    8/3/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
