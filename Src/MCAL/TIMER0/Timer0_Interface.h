@@ -1,11 +1,11 @@
 /**
 * @file    TIMER_Interface.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM  
+* @authorr rev Basmala Mahmoud
+* @brief   Public interface for the Timer0 driver.
+* @details Contains the public function prototypes for Timer0 configuration, delay generation, interrupts, and PWM control.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 #ifndef _TIMER0_INTERFACE_H
