@@ -1,11 +1,11 @@
 /**
 * @file    EngineControl_Interface.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud  
+* @author  rev Maria Boules
+* @brief   Public interface for the EngineControl module.
+* @details Contains the public function prototypes used to control engine operation.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
