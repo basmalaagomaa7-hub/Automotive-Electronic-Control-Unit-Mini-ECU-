@@ -1,3 +1,13 @@
+/**
+* @file    UART_Interface.c
+* @author  dev Malak Mohammed  
+* @author  rev Maria Boules
+* @brief   Public interface for the UART driver.
+* @details Contains the public APIs for serial communication.
+* @version 1.0
+* @date    8/2/2026
+* @copyright Copyright (c) 2026, Gestell Company
+*/
 #ifndef _UART_INTERFACE_H
 #define _UART_INTERFACE_H
 
