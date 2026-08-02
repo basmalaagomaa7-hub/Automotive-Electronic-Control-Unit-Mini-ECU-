@@ -1,11 +1,11 @@
 /**
 * @file    TIMER_Private.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM
+* @author  rev Basmala Mahmoud
+* @brief   Private declarations for the Timer0 driver.
+* @details Contains register bit definitions, private macros, and internal helper declarations used only by the Timer0 driver.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 #ifndef _TIMER0_PRIVATE_H
