@@ -1,3 +1,13 @@
+/**
+* @file    UART_Program.c
+* @author  dev Malak Mohammed  
+* @author  rev Maria Boules
+* @brief   Implements the UART driver.
+* @details Provides serial transmission and reception using the USART peripheral.
+* @version 1.0
+* @date    8/2/2026
+* @copyright Copyright (c) 2026, Gestell Company
+*/
 #include "UART_Interface.h"
 
 
