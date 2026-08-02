@@ -1,11 +1,11 @@
 /**
 * @file    SelfTest_Config.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud  
+* @author  rev Malak Mohammed
+* @brief   Configuration parameters for the SelfTest module.
+* @details Contains configurable thresholds and timing values used during startup diagnostics.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
