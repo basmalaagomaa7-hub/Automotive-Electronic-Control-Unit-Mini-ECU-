@@ -1,7 +1,7 @@
 /**
 * @file    POT_Interface.h
-* @author  dev Basmala Mahmoud 
-* @author  rev Malak Mohammed
+* @author  dev Malak Mohammed
+* @author  rev Basmala Mahmoud
 * @brief   Public interface for the POT driver.
 * @details Contains the public function prototypes for reading the potentiometer value.
 * @version 1.0
