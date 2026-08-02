@@ -1,10 +1,10 @@
 /**
 * @file    EngineControl_Private.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
+* @author  dev Basmala Mahmoud  
+* @author  rev Maria Boules
+* @brief   Private declarations for the EngineControl module.
+* @details Contains internal helper function prototypes and private macros used only inside EngineControl_Program.c.
+* @version 1.0
 * @date
 * @copyright Copyright (c) 2026, Gestell Company
 */
