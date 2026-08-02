@@ -1,11 +1,11 @@
 /**
 * @file    Buzzer_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud  
+* @author  rev malak Mohammed
+* @brief   Implements the Buzzer driver.
+* @details Provides functions to activate and deactivate the buzzer.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 #include "Buzzer_Interface.h"
