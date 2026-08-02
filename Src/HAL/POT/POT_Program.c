@@ -1,15 +1,12 @@
 /**
 * @file    POT_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Malak Mohammed  
+* @author  rev Basmala Mahmoud
+* @brief   Implements the POT driver.
+* @details Reads the analog value from the potentiometer using the ADC peripheral.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
-*/
-/**
-* @file    POT_Program.c
 */
 
 #include "../../LIB/STD_TYPES.h"
