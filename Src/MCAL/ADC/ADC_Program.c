@@ -1,5 +1,5 @@
 /**
-* @file    Buzzer_Config.h
+* @file    ADC_Program.c
 * @author  dev Malak Mohammed 
 * @author  rev Basmala Mahmoud
 * @brief   Implements the Digital Input/Output (DIO) driver.
