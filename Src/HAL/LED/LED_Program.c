@@ -1,11 +1,11 @@
 /**
 * @file    LED_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM
+* @author  rev Basmala Mahmoud
+* @brief   Implements the LED driver.
+* @details Provides functions to initialize and control LEDs using the DIO driver.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 #include"LED_Interface.h"
