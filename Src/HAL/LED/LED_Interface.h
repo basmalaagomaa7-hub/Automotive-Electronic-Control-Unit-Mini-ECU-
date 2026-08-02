@@ -1,11 +1,11 @@
 /**
 * @file    LED_Interface.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM  
+* @author  rev Basmala Mahmoud
+* @brief   Public interface for the LED driver.
+* @details Contains the public function prototypes for controlling LEDs.
+* @version 1.0
+* @date    8/3/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
