@@ -1,5 +1,5 @@
 /**
-* @file    UART_Interface.c
+* @file    UART_Interface.h
 * @author  dev Malak Mohammed  
 * @author  rev Maria Boules
 * @brief   Public interface for the UART driver.
