@@ -1,11 +1,11 @@
 /**
 * @file    LM35_Private.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud  
+* @author  rev Malak Mohammed
+* @brief   Private declarations for the LM35 driver.
+* @details Contains private macros and internal definitions used by the LM35 driver.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
