@@ -1,3 +1,15 @@
+/**
+* @file    Buzzer_Config.h
+* @author  dev Malak Mohammed 
+* @author  rev Basmala Mahmoud
+* @brief   Implements the Digital Input/Output (DIO) driver.
+* @details Provides pin and port initialization, read, write, and toggle operations.
+* @version 1.0
+* @date    8/2/2026
+* @copyright Copyright (c) 2026, Gestell Company
+*/
+ 
+
 #include "ADC_Interface.h"
 #include "ADC_Private.h"
 
