@@ -1,3 +1,14 @@
+/**
+* @file    Fan_privite.h
+* @author  dev Basmala Mahmoud 
+* @author  rev Maria Boules
+* @brief   Private declarations for the Fan driver.
+* @details Contains private macros and definitions used only by the Fan driver.
+* @version 1.0
+* @date    8/2/2026
+* @copyright Copyright (c) 2026, Gestell Company
+*/
+
 #ifndef FAN_PRIVATE_H
 #define FAN_PRIVATE_H
 
