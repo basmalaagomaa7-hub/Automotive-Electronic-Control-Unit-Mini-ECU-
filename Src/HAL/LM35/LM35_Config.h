@@ -1,11 +1,11 @@
 /**
 * @file    LM35_Config.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev Basmala Mahmoud 
+* @author  rev Malak Mohammed
+* @brief   Configuration parameters for the LM35 driver.
+* @details Defines the ADC channel and sensor configuration parameters.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
