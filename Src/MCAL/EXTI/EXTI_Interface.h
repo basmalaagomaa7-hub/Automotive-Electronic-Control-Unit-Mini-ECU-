@@ -1,11 +1,11 @@
 /**
 * @file    EXTI_Interface.h
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM 
+* @author  rev Malak Mohammed
+* @brief   Public interface for the External Interrupt driver.
+* @details Contains the public APIs for configuring external interrupts.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
