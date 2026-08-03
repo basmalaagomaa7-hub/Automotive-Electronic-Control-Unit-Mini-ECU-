@@ -1,3 +1,13 @@
+/**
+* @file    GIE_Interface.h
+* @author  dev CTRLDRIVE TEAM
+* @author  rev Maria Boules 
+* @brief   Public interface for the GIE driver.
+* @details Contains the public function prototypes for enabling and disabling global interrupts.
+* @version 1.0
+* @date    8/2/2026
+* @copyright Copyright (c) 2026, Gestell Company
+*/
 
 #ifndef _GIE_INTERFACE_H
 #define _GIE_INTERFACE_H
