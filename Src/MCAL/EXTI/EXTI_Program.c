@@ -1,11 +1,11 @@
 /**
 * @file    EXTI_Program.c
-* @author (developer)  
-* @author(reviewer)
-* @brief  
-* @details
-* @version
-* @date
+* @author  dev CTRLDRIVE TEAM 
+* @author  rev Malak Mohammed
+* @brief   Implements the External Interrupt driver.
+* @details Configures and handles external interrupt requests.
+* @version 1.0
+* @date    8/2/2026
 * @copyright Copyright (c) 2026, Gestell Company
 */
 
