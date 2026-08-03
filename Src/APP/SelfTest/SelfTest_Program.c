@@ -20,14 +20,7 @@
 
 SelfTest_Status_t SelfTest_Run(void)
 {
-    /*
-     * The fault LED is deliberately NOT tested here.
-     * PB2 is reserved exclusively for a real high-temperature fault.
-     *
-     * Battery and temperature are monitored after startup by the normal
-     * ECU run-state modules. A low battery may light the warning LED, but it
-     * must not trap the ECU on the SELF TEST / PLEASE WAIT screen.
-     */
+  
 
     Led_on(ENGINE_LED_PORT, ENGINE_LED_PIN);
     _delay_ms(SELFTEST_LED_DELAY);
